@@ -57,4 +57,4 @@ Durante o desenvolvimento foram aplicados:
 ### 1️⃣ Clonar o repositório
 
 ```bash
-git clone https://github.com/SEU_USUARIO_GITHUB/controle-estoque-python
+git clone https://github.com/Sponge1774/controle-estoque-python
