@@ -1,16 +1,16 @@
 # 📦 Sistema de Controle de Estoque e Registro de Vendas
 
-> Projeto acadêmico desenvolvido para aplicar conceitos de **Algoritmos e Lógica Computacional** utilizando Python, com foco em organização, clareza e boas práticas iniciais de programação.
+> Projeto acadêmico desenvolvido para aplicar conceitos de **Algoritmos e Lógica Computacional** em Python, com foco em organização, clareza e boas práticas iniciais de programação.
 
 ---
 
 ## 🎯 Objetivo do projeto
 
-O projeto foi desenvolvido com o propósito de:
+Este projeto tem como finalidade:
 
 - implementar um sistema simples de controle comercial
 - praticar lógica computacional aplicada
-- estruturar código de forma modular
+- estruturar o código de forma modular
 - utilizar estruturas fundamentais da linguagem Python
 
 Durante o desenvolvimento foram aplicados:
@@ -29,29 +29,26 @@ Durante o desenvolvimento foram aplicados:
 ✔ Atualizar informações de produtos existentes  
 ✔ Excluir produtos do estoque  
 ✔ Visualizar o estoque atual de forma organizada  
-✔ Registrar vendas vinculando produtos e cliente  
-✔ Atualização automática do estoque após venda  
-✔ Histórico de vendas realizadas  
+✔ Registrar vendas vinculando produtos aos clientes  
+✔ Atualizar automaticamente o estoque após vendas  
+✔ Consultar histórico de vendas realizadas  
 
 ---
 
 ## 🛠 Tecnologias, ferramentas e ambiente
 
 ### Linguagem
-
 - Python 3
 
 ### Ambiente de desenvolvimento
-
 - **Anaconda** (gerenciamento do ambiente Python)
 - **Spyder IDE** (edição e execução do código)
 
 ### Controle de versão
-
-- Git
+- Git  
 - GitHub
 
-> O projeto foi desenvolvido em Pop!_OS (Linux), porém funciona normalmente em Windows e macOS desde que Python esteja instalado.
+> Desenvolvido no Pop!_OS (Linux), mas compatível com Windows e macOS desde que o Python esteja instalado.
 
 ---
 
@@ -61,4 +58,3 @@ Durante o desenvolvimento foram aplicados:
 
 ```bash
 git clone https://github.com/SEU_USUARIO_GITHUB/controle-estoque-python
-
