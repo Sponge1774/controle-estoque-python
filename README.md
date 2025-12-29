@@ -94,6 +94,8 @@ This README aims to:
 > In this README you will see explanations and illustrative excerpts only.
 
 ---
+---
+---
 
 ## 🎯 Project objective
 
