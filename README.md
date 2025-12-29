@@ -71,3 +71,76 @@ Você pode executar o sistema de diferentes maneiras:
 via download manual, terminal, Spyder (Anaconda) ou Git.
 
 ---
+# 📦 Inventory and Sales Control System
+
+Academic project developed to apply **Algorithms and Computational Logic** concepts using Python, with a focus on clarity, organization, and good introductory programming practices.
+
+---
+
+## ℹ️ About this repository
+
+This README aims to:
+
+- explain the project
+- provide guidance about the system
+
+> **Important:**  
+> The full project source code is in the file:
+>
+> ```
+> controle_estoque_python.py
+> ```
+>
+> In this README you will see explanations and illustrative excerpts only.
+
+---
+
+## 🎯 Project objective
+
+This project proposes the development of a simple commercial control system, applying:
+
+- conditional structures
+- repetition loops
+- modularization through functions
+- data structure manipulation
+
+The following concepts were used:
+
+- `if / elif / else`
+- `while` and `for`
+- dictionaries and lists
+- basic error handling (`try / except`)
+
+---
+
+## 🧩 Implemented features
+
+✔ Add products to inventory  
+✔ Update existing products  
+✔ Remove products from inventory  
+✔ Display inventory in an organized format  
+✔ Register sales linked to customers  
+✔ Automatically update inventory after each sale  
+✔ Display the sales history  
+
+---
+
+## 🛠 Technologies and tools
+
+### Language
+- Python 3
+
+### Development environment
+- Anaconda
+- Spyder IDE
+
+> Developed on Pop!_OS (Linux), also compatible with Windows and macOS.
+
+---
+
+# ▶️ How to run the project
+
+The system can be executed in different ways:  
+via manual download, terminal, Spyder (Anaconda), or Git.
+
+---
