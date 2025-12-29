@@ -71,6 +71,10 @@ Você pode executar o sistema de diferentes maneiras:
 via download manual, terminal, Spyder (Anaconda) ou Git.
 
 ---
+---
+---
+
+## 🇬🇧 English Version
 # 📦 Inventory and Sales Control System
 
 Academic project developed to apply **Algorithms and Computational Logic** concepts using Python, with a focus on clarity, organization, and good introductory programming practices.
