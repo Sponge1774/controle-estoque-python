@@ -16,7 +16,7 @@ Este README tem como objetivo:
 > O código completo do sistema está no arquivo:
 >
 > ```
-> controle_estoque.py
+> controle_estoque_python.py
 > ```
 >
 > Aqui no README você verá apenas explicações e trechos ilustrativos.
