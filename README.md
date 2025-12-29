@@ -10,7 +10,6 @@ Este README tem como objetivo:
 
 - explicar o projeto
 - orientar a execução do sistema
-- apresentar exemplos ilustrativos do código
 
 > **Importante:**  
 > O código completo do sistema está no arquivo:
