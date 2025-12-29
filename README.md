@@ -1,60 +1,74 @@
 # 📦 Sistema de Controle de Estoque e Registro de Vendas
 
-> Projeto acadêmico desenvolvido para aplicar conceitos de **Algoritmos e Lógica Computacional** em Python, com foco em organização, clareza e boas práticas iniciais de programação.
+> Projeto acadêmico desenvolvido para aplicar conceitos de **Algoritmos e Lógica Computacional** utilizando Python, com foco em organização, clareza e boas práticas iniciais.
+
+---
+
+## ℹ️ Sobre este repositório
+
+Este README tem como objetivo:
+
+- explicar o projeto
+- orientar a execução do sistema
+- apresentar exemplos ilustrativos do código
+
+> **Importante:**  
+> O código completo do sistema está no arquivo:
+>
+> ```
+> controle_estoque.py
+> ```
+>
+> Aqui no README você verá apenas explicações e trechos ilustrativos.
 
 ---
 
 ## 🎯 Objetivo do projeto
 
-Este projeto tem como finalidade:
+O projeto propõe o desenvolvimento de um sistema simples de controle comercial, aplicando:
 
-- implementar um sistema simples de controle comercial
-- praticar lógica computacional aplicada
-- estruturar o código de forma modular
-- utilizar estruturas fundamentais da linguagem Python
+- estruturas condicionais
+- laços de repetição
+- modularização por funções
+- manipulação de estruturas de dados
 
-Durante o desenvolvimento foram aplicados:
+Foram utilizados:
 
-- Estruturas condicionais (`if / elif / else`)
-- Estruturas de repetição (`while` e `for`)
-- Estruturas de dados (`dicionários` e `listas`)
-- Modularização por funções
-- Tratamento básico de erros (`try / except`)
+- `if / elif / else`
+- `while` e `for`
+- dicionários e listas
+- tratamento básico de erros (`try / except`)
 
 ---
 
-## 🧩 Funcionalidades do sistema
+## 🧩 Funcionalidades implementadas
 
-✔ Adicionar novos produtos ao estoque  
-✔ Atualizar informações de produtos existentes  
+✔ Adicionar produtos ao estoque  
+✔ Atualizar produtos existentes  
 ✔ Excluir produtos do estoque  
-✔ Visualizar o estoque atual de forma organizada  
-✔ Registrar vendas vinculando produtos aos clientes  
-✔ Atualizar automaticamente o estoque após vendas  
-✔ Consultar histórico de vendas realizadas  
+✔ Listar estoque organizado  
+✔ Registrar vendas vinculando produtos ao cliente  
+✔ Atualizar estoque automaticamente após a venda  
+✔ Exibir histórico de vendas  
 
 ---
 
-## 🛠 Tecnologias, ferramentas e ambiente
+## 🛠 Tecnologias e ferramentas
 
 ### Linguagem
 - Python 3
 
 ### Ambiente de desenvolvimento
-- **Anaconda** (gerenciamento do ambiente Python)
-- **Spyder IDE** (edição e execução do código)
+- Anaconda
+- Spyder IDE
 
-### Controle de versão
-- Git  
-- GitHub
-
-> Desenvolvido no Pop!_OS (Linux), mas compatível com Windows e macOS desde que o Python esteja instalado.
+> Desenvolvido em Pop!_OS (Linux), compatível também com Windows e macOS.
 
 ---
 
-## ▶️ Como executar o projeto
+# ▶️ Como executar o projeto
 
-### 1️⃣ Clonar o repositório
+Você pode executar o sistema de diferentes maneiras:  
+via download manual, terminal, Spyder (Anaconda) ou Git.
 
-```bash
-git clone https://github.com/Sponge1774/controle-estoque-python
+---
