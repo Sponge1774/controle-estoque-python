@@ -73,6 +73,11 @@ via download manual, terminal, Spyder (Anaconda) ou Git.
 ---
 ---
 ---
+---
+
+## ⚖️ Licença
+
+Este projeto está sob a licença **MIT**. Consulte o arquivo [LICENSE](LICENSE) para obter mais detalhes.
 
 ## 🇬🇧 English Version
 # 📦 Inventory and Sales Control System
@@ -152,6 +157,6 @@ via manual download, terminal, Spyder (Anaconda), or Git.
 ---
 ---
 
-## ⚖️ Licença
+## ⚖️ License
 
-Este projeto está sob a licença **MIT**. Consulte o arquivo [LICENSE](LICENSE) para obter mais detalhes.
+This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for more details.
