@@ -72,8 +72,6 @@ via download manual, terminal, Spyder (Anaconda) ou Git.
 
 ---
 ---
----
----
 
 ## ⚖️ Licença
 
