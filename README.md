@@ -150,3 +150,8 @@ The system can be executed in different ways:
 via manual download, terminal, Spyder (Anaconda), or Git.
 
 ---
+---
+
+## ⚖️ Licença
+
+Este projeto está sob a licença **MIT**. Consulte o arquivo [LICENSE](LICENSE) para obter mais detalhes.
